@@ -12,3 +12,7 @@ Following is the summary of analysis of Coupns for "Coffee House":
 - Time is having significant impact on Acceptance rate. Better acceptable rate in Morning and Afternoon than late evenings or night.
 - If customer is not within 15 mins distance of coupon place than acceptance rate of coupon is higher and need to add effect of direction of travel
 Another Hypothesis I tested : Would Price senstive customer (who spend less than $20 in a visit) and are frequent dinners (>4 times a month) have high chance to accept than others and answer is "Yes"
+
+Next Steps: 
+1) Since most of the analysis was done with only factor at a time thus, recommended next step is to  expand the analysis to include multiple factor analysis to better understand interaction between factors.
+2) Expand the analysis to coupon categories other than "Bar" and "Coffee House" and use more advanced statistical techniques like 2 t-tests to validate if % difference between 2 categories is statistically different.
